@@ -14,7 +14,7 @@
     </property>
 
     <property name="windowTitle">
-      <string>ENGN2912B 2015 | QtCalc1</string>
+      <string>ENGN2912B | QtCalc1</string>
     </property>
 
     <widget class="QWidget" name="centralwidget">

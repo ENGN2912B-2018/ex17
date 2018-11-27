@@ -36,5 +36,3 @@ FORMS = \
         $$FORMSDIR/MainWindow.ui \
         $$FORMSDIR/AboutDialog.ui \
         $$(NULL)
-
-
